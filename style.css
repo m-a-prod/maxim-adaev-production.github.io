@@ -20,3 +20,14 @@ a {
     color: #0AF;
     text-decoration: none;
 }
+
+.link a {
+  float: left;
+  color: #4a4844;
+
+}
+
+.link a:hover {
+  background-color: #ddd;
+  color: #63625f;
+}
